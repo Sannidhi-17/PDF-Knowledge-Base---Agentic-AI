@@ -1,0 +1,10 @@
+agno
+groq
+openai
+lancedb
+tantivy
+pypdf
+duckduckgo-search
+sentence-transformers
+python-dotenv
+torch
